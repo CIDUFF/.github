@@ -1,4 +1,4 @@
-# Repositório CID Lagoa Viva
+# Repositório CID 
 
 **Bem-vindos ao repositório do Centro de Inteligência de Dados (CID) do projeto Lagoa Viva UFF!**
 
